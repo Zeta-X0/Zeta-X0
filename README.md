@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate with no one🥴
 - 📫 How to reach me idk
 - 😄 Pronouns: idk
-- ⚡ Fun fact: i don't have any idea in coding
+- ⚡ Fun fact: I don't know anything
 
 <!---
 Zeta-X0/Zeta-X0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
